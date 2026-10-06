@@ -1,0 +1,20 @@
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+
+# Datos (NUNCA subir datasets pesados a Git)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
