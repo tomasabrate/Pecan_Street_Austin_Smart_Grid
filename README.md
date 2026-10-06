@@ -1,6 +1,6 @@
 # Smart Grid Data Analytics: Telemetría Residencial de Austin (2018)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tomasabrate/Pecan_Street_Austin_Smart_Grid/blob/main/notebooks/Pecan_Street_Austin_Smart_Grid.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/tomasabrate/pecan-street-austin-smart-grid)
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/tomasabrate/pecan-street-austin-smart-grid)
 
 Este repositorio contiene la arquitectura fundacional de datos (ETL y Análisis Exploratorio) para el procesamiento masivo de telemetría proveniente de medidores inteligentes (IoT) en el marco de redes eléctricas inteligentes (*Smart Grids*).
 
